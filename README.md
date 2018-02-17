@@ -26,3 +26,6 @@ Consensus refers to a system of ensuring that parties agree to a certain state o
 © All Rights Reserved
 
 * IROHA.
+
+## applicstions 
+https://www.coindesk.com/7-cool-decentralized-apps-built-ethereum/
