@@ -24,3 +24,5 @@ Smart contracts are simply computer programs that execute predefined actions whe
 
 Consensus refers to a system of ensuring that parties agree to a certain state of the system as the true state.
 © All Rights Reserved
+
+* IROHA.
