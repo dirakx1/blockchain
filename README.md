@@ -13,3 +13,14 @@ In summary, distributed ledger technology generally consists of three basic comp
         A data model that captures the current state of the ledger
         A language of transactions that changes the ledger state
         A protocol used to build consensus among participants around which transactions will be accepted, and in what order, by the ledger.
+
+
+
+According to hyperledger.org,
+
+"A blockchain is a peer-to-peer distributed ledger forged by consensus, combined with a system for "smart contracts" and other assistive technologies."
+
+Smart contracts are simply computer programs that execute predefined actions when certain conditions within the system are met.
+
+Consensus refers to a system of ensuring that parties agree to a certain state of the system as the true state.
+© All Rights Reserved
