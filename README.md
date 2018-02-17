@@ -29,3 +29,9 @@ Consensus refers to a system of ensuring that parties agree to a certain state o
 
 ## applicstions 
 https://www.coindesk.com/7-cool-decentralized-apps-built-ethereum/
+## Ehereum made blockchains
+
+        Augur, which is a Decentralized Prediction Market. Learn more at https://augur.net/.
+        Digix, which tokenizes gold on Ethereum. Learn more at: https://digix.global/.
+        Maker, which is a Decentralized Autonomous Organization (DAO). Learn more at: https://makerdao.com/.
+
