@@ -15,7 +15,6 @@ In summary, distributed ledger technology generally consists of three basic comp
         A protocol used to build consensus among participants around which transactions will be accepted, and in what order, by the ledger.
 
 
-
 According to hyperledger.org,
 
 "A blockchain is a peer-to-peer distributed ledger forged by consensus, combined with a system for "smart contracts" and other assistive technologies."
@@ -34,4 +33,9 @@ https://www.coindesk.com/7-cool-decentralized-apps-built-ethereum/
         Augur, which is a Decentralized Prediction Market. Learn more at https://augur.net/.
         Digix, which tokenizes gold on Ethereum. Learn more at: https://digix.global/.
         Maker, which is a Decentralized Autonomous Organization (DAO). Learn more at: https://makerdao.com/.
+## certifyingdocuments 
+
+*Stamp.io.
+
+
 
