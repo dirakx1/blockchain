@@ -1,4 +1,4 @@
-## Dependencies
+# Dependencies
 
 $ sudo apt install curl
 
@@ -11,3 +11,6 @@ $ curl -V
 ## Go
 ## node
 ## npm 
+
+# Iroha framework 
+Mobiel oriented, c++, inspired on fabric, with api interaction with the distributed ledger network
