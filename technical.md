@@ -1,4 +1,4 @@
-# General Dependencies for hyperledger projects.
+# General Dependencies for hyperledger projects
 
 $ sudo apt install curl
 
@@ -37,3 +37,6 @@ You can join the live conversations on Rocket.Chat (which is an alternative to S
         https://chat.hyperledger.org/channel/iroha-smartcontracts.
 
 Another option is to join the mailing list(s) for technical discussions and announcements: https://lists.hyperledger.org/mailman/listinfo/hyperledger-iroha.
+
+## api 
+The Hyperledger Iroha team has been actively working on creating API documents. If you are interested in taking a look and testing for yourself, you can visit https://hyperledger.github.io/iroha-api/#overview.
