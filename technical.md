@@ -14,3 +14,7 @@ $ curl -V
 
 # Iroha framework 
 Mobiel oriented, c++, inspired on fabric, with api interaction with the distributed ledger network
+
+        Android: https://github.com/hyperledger/iroha-android
+        iOS: https://github.com/hyperledger/iroha-ios.
+
