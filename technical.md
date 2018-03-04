@@ -1,4 +1,4 @@
-# Dependencies
+# General Dependencies for hyperledger projects.
 
 $ sudo apt install curl
 
@@ -19,4 +19,14 @@ Mobiel oriented, c++, inspired on fabric, with api interaction with the distribu
         iOS: https://github.com/hyperledger/iroha-ios.
 
 Iteroperability. 
+
+        https://github.com/hyperledger/iroha
+        https://github.com/hyperledger/iroha-ios
+        https://github.com/hyperledger/iroha-android
+        https://github.com/hyperledger/iroha-javascript
+        https://github.com/hyperledger/iroha-python
+        https://github.com/hyperledger/iroha-scala
+        https://github.com/hyperledger/iroha-dotnet
+        https://github.com/hyperledger/iroha-api.
+
 
