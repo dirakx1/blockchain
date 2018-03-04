@@ -20,6 +20,7 @@ Mobiel oriented, c++, inspired on fabric, with api interaction with the distribu
 
 Iteroperability. 
 
+## code
         https://github.com/hyperledger/iroha
         https://github.com/hyperledger/iroha-ios
         https://github.com/hyperledger/iroha-android
@@ -29,6 +30,7 @@ Iteroperability.
         https://github.com/hyperledger/iroha-dotnet
         https://github.com/hyperledger/iroha-api.
 
+## community 
 You can join the live conversations on Rocket.Chat (which is an alternative to Slack), using your Linux Foundation ID:
 
         https://chat.hyperledger.org/channel/iroha
