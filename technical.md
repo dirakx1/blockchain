@@ -44,3 +44,4 @@ Another option is to join the mailing list(s) for technical discussions and anno
 The Hyperledger Iroha team has been actively working on creating API documents. If you are interested in taking a look and testing for yourself, you can visit https://hyperledger.github.io/iroha-api/#overview.
 
 # Hyperledger Sawtooth
+Hyperledger Sawtooth is extremely scalable and able to withstand high throughput of data, which makes it a great option for production supply chain scenarios.
