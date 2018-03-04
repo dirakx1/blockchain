@@ -29,4 +29,9 @@ Iteroperability.
         https://github.com/hyperledger/iroha-dotnet
         https://github.com/hyperledger/iroha-api.
 
+You can join the live conversations on Rocket.Chat (which is an alternative to Slack), using your Linux Foundation ID:
 
+        https://chat.hyperledger.org/channel/iroha
+        https://chat.hyperledger.org/channel/iroha-smartcontracts.
+
+Another option is to join the mailing list(s) for technical discussions and announcements: https://lists.hyperledger.org/mailman/listinfo/hyperledger-iroha.
