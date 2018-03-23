@@ -47,6 +47,6 @@ The Hyperledger Iroha team has been actively working on creating API documents. 
 Hyperledger Sawtooth is extremely scalable and able to withstand high throughput of data, which makes it a great option for production supply chain scenarios and IOT applications
 
 ## Consensus algorithm Proof of elapsed time 
-## arquitechture
+## Arquitechture
 * https://intelledger.github.io/architecture/journal.html
 
