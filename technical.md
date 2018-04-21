@@ -49,4 +49,4 @@ Hyperledger Sawtooth is extremely scalable and able to withstand high throughput
 ## Consensus algorithm Proof of elapsed time 
 ## Arquitechture
 * https://intelledger.github.io/architecture/journal.html
-
+* Download the following Docker Compose file as sawtooth-default.yaml at https://raw.githubusercontent.com/hyperledger/education/master/LFS171x/sawtooth-material/sawtooth-default.yaml.
