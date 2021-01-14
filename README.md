@@ -58,3 +58,6 @@ Hyperledger Fabric was the first proposal for a codebase, combining previous wor
 
 - Brian Behlendorf, Executive Director of Hyperledger, The Linux Foundation
 
+#### Ideas and references. 
+* https://goteleport.com/blog/why-blockchain-needs-kubernetes/  (Blok8s)
+
