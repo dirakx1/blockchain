@@ -8,6 +8,6 @@
 ## Consensus mechanisms(voting consensus)
 
 - Paxos algorithm (quorum) 
-- Raf algorithm, easier paxos used by eth
+- Raft algorithm, easier paxos used by eth
 - PBFT practical bizantine fault tolerance. 
 - 
